@@ -1,3 +1,3 @@
 # codesnip
 
-Algorithms compilation
+Algorithms/Script compilation
